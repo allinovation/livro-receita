@@ -1,12 +1,6 @@
-# 
+# Strogonoff de Carne :cow2:
 
-**Negrito** _Italico_
-
-# Strogonoff de Carne :cow:
-
-
-
-### INGREDIENTES
+### Ingredientes
 
 - 500 g de carne em tiras finas filé mignon, contra-filé
 - 1 pitada de pimenta-do-reino
@@ -40,3 +34,4 @@
 - Abaixe o fogo, deixe por cerca de 5 minutos, com a frigideira tampada.
 
 - Incorpore delicadamente o NESTLÉ Creme de Leite e retire do fogo antes de ferver. Sirva.
+
